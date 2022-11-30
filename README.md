@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Wouter here
+
+key aspects:
+- creative
+- tech oriented, yet with user centric approach
+- love societal and environmental challenges
+
+got myself the tensorflow certificate ![tf badge](775a9b97-fba2-48c9-841d-003828fa14f4.png)
+
 <!--
 **devriesewouter89/devriesewouter89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
