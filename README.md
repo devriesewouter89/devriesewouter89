@@ -21,8 +21,9 @@ Yet need to make this page shining a little more, a tad more pleasant vibes perh
 - Arduino
 - STM
 - Xilinx SoCs
+- Fusion360 for 3D design & combination with PCB design
 
-got myself the tensorflow certificate: ![tf badge](775a9b97-fba2-48c9-841d-003828fa14f4.png)
+got myself the tensorflow certificate: ![tf badge](775a9b97-fba2-48c9-841d-003828fa14f4.png | width=100)
 
 
 ## passion projects
