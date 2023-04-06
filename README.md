@@ -24,13 +24,14 @@ Yet need to make this page shining a little more, a tad more pleasant vibes perh
 - Fusion360 for 3D design & combination with PCB design
 
 got myself the tensorflow certificate:
-<img src="775a9b97-fba2-48c9-841d-003828fa14f4.png" width=50% height=50%>
+<img src="775a9b97-fba2-48c9-841d-003828fa14f4.png" width=25% height=25%>
 
 
 ## passion projects
 
 - Music maestro!
 - [CoGhent toilet paper printer](https://github.com/devriesewouter89/CoGhentToiletPaper)
+<img src="https://github.com/devriesewouter89/CoGhentToiletPaper/blob/main/docs/images/prototype.jpg" width=10% height=10%>
 
 <!--
 **devriesewouter89/devriesewouter89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
