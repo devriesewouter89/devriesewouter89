@@ -8,6 +8,10 @@ key aspects:
 - love societal and environmental challenges
 
 Yet need to make this page shining a little more, a tad more pleasant vibes perhaps.
+## soft skills
+
+- passion for art & technology
+- 
 
 ## tech skills
 
@@ -33,6 +37,12 @@ got myself the tensorflow certificate:
 - [CoGhent toilet paper printer](https://github.com/devriesewouter89/CoGhentToiletPaper)
 <img src="https://github.com/devriesewouter89/CoGhentToiletPaper/blob/main/docs/images/prototype.jpg" width=10% height=10%>
 
+
+## work projects
+
+- [ADDA](https://github.com/devriesewouter89/devriesewouter89.git): VR experiment (2023) while working at [LUCA school of arts](https://www.luca-arts.be/nl), together with KU Leuven Psychology.  
+
+
 <!--
 **devriesewouter89/devriesewouter89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,4 +56,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
+
+
